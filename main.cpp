@@ -1,7 +1,7 @@
 #include<iostream>
-#include "Model/Input.h"
-#include "Model/Proses.h"
-#include "Model/Output.h"
+#include "Isi/Input.h"
+#include "Isi/Proses.h"
+#include "Isi/Output.h"
 using namespace std;
 
 int main(){
