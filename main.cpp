@@ -11,8 +11,10 @@ int main(){
     string nama[100];
     int long nim[100];
     int skor[100];
+    
     objectInput.input(nama, nim, skor);
     objectProses.proses(nama, nim, skor);
     objectOutput.output(nama,nim, skor);
     return 0;
+
 }
